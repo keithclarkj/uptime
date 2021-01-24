@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/insert
+Content-Type: application/json
+
+{
+  "domain": "www.google.co.uk",
+  "port": 4433
+}

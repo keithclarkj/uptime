@@ -1,0 +1,7 @@
+http://localhost:5000/api/statuses
+Content-Type: application/json
+
+{
+  "domain": "www.google.com",
+  "port": 80
+}

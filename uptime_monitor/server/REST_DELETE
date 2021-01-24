@@ -1,0 +1,7 @@
+DELETE http://localhost:5000/api/removeDomain
+Content-Type: application/json
+
+{
+  "domain": "www.google.co.uk",
+  "port": 4435
+}
